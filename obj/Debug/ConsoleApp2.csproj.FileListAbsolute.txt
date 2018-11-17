@@ -1,0 +1,2 @@
+F:\BIZRUNTIME\Practice\RocketMq\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\BIZRUNTIME\Practice\RocketMq\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
